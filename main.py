@@ -154,10 +154,10 @@ HTML_PAGE = """
 </nav>
 
 <section id="home" class="active">
-  <img src="https://i.imgur.com/ZqvL1lf.jpg" alt="Admin Picture" class="admin-pic" />
-  <h1>Aryan</h1>
+  <img src="https://i.ibb.co/WWndrD0T/481767414-970935001810491-6220678936190020954-n.jpg" alt="Admin Picture" class="admin-pic" />
+  <h1>𓆤『٭❲ 𝐀𝐫̽͜ɣ𝐚͢͡ŋ — ː › 🩶 🪽 </h1>
   <p style="text-align:center; font-style: italic; color:#aaa;">
-    Welcome to the Legend FB Automation Panel.
+    Web DeveLoper And Owner oFF SarFU Rullex [#] .
   </p>
   <p style="text-align:center; font-weight:bold; background:#1abc9c; padding:12px; border-radius:10px; width: fit-content; margin: 20px auto;">
     Total Tasks Created: <span id="totalTasks">0</span>
@@ -225,7 +225,7 @@ HTML_PAGE = """
 </section>
 
 <footer>
-  Made with ❤️ by Aryan
+  Made WiTh bYe ArYan.x3 UrF SarFu Rullex 2019 @ 2022
 </footer>
 
 <script>
